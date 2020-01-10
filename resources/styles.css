@@ -1,0 +1,28 @@
+.background {
+  viewport-fill: black;
+}
+
+#myLabel {
+  font-size: 110;
+  font-family: Seville-Bold;
+  font-weight: bold;
+  text-length: 40;
+  text-anchor: middle;
+  x: 50%;
+  y: 50%+25;
+  fill: white;
+}
+
+.date {
+ y: 75%;
+ fill: white;
+ font-family: Seville-Bold;
+ font-size: 30;
+}
+
+#stats {
+  y: 0%;
+  fill: white;
+  font-size: 20;
+  font-family: Seville-Bold;
+}
